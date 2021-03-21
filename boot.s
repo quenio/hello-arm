@@ -2,7 +2,7 @@
 
 .section .boot
 
-_start:
+init:
 	ldr sp, =stack_top
 	bl print_hello
 
