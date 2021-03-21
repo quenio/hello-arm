@@ -1,5 +1,3 @@
-.global _start
-
 .section .boot
 
 init:
